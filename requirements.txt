@@ -1,7 +1,7 @@
 streamlit
-langchain==0.0.329
-openai==0.28.1
-chromadb==0.4.15
+langchain
+openai
+chromadb
 tiktoken
 pysqlite3-binary
 pypdf
