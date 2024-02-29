@@ -1,5 +1,9 @@
 # Build my first App with GPT
 
+Colab notebook
+[https://colab.research.google.com/drive/1qpIFsgSEv-x-yqfLFJk3uRg2ZEEJ56Hy?usp=sharing](https://colab.research.google.com/drive/1qpIFsgSEv-x-yqfLFJk3uRg2ZEEJ56Hy?usp=sharing)
+
+
 ## OpenAI Account
 - Go to OpenAI's Platform website at [platform.openai.com](https://platform.openai.com/account/api-keys) and sign in with an OpenAI account.
 - Click your profile icon at the top-right corner of the page and select "View API Keys."
